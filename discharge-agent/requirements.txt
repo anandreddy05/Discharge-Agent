@@ -1,0 +1,16 @@
+langchain
+langchain-community
+langchain-openai
+langgraph
+fastapi
+uvicorn
+python-dotenv
+langchain-core
+langchain-docling
+streamlit
+docling
+ipykernel
+pypdf
+langsmith
+reportlab
+Levenshtein
